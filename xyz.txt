@@ -1,0 +1,11 @@
+to create a user
+syntax
+create user username identified by password;
+example
+create user satish identified by pwd;
+------------------------------------------------
+to change user password
+syntax 
+alter user username identified by password;
+example
+alter user sattu identified by pwd;Your may go now
